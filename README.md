@@ -24,7 +24,7 @@ Pour la conception de notre ERP on a utiliser Odoo qui est un business managemen
 - Odoo Community (Open-source)
 - Odoo Enterprise (licensed)
 
-Ce qui nous interesse est Odoo Community qui comporte plusieurs composants pour les differents process de l'entreprise comme :
+Ce qui nous interesse ici est Odoo Community qui comporte plusieurs composants pour differents process de l'entreprise comme :
 - Finance
 - Ressources humaines
 - Ventes
@@ -34,7 +34,7 @@ Ce qui nous interesse est Odoo Community qui comporte plusieurs composants pour 
 - Marketing
 - Inventaires
 
-On choisira differents apps en focntion de notre business!!!
+On choisira differents apps en fonction de notre business!!!
 
 ## Business Plan
 
@@ -50,3 +50,16 @@ Ici je vais developper tout les éléments qui constituent mon business Plan.
 
 ![Problem_State](/screenshots/Problem_statement.png)
 
+Pour notre projet voici les éléments qui constitent l'état du problème et la proposition de solution:
+
+- le problème : La difficulté d'accéder à des équipements technologiques de haute qualité, modernes et authentiques adaptés aux différents besoins, couplée à un manque de services de réparation fiables pour prolonger la durée de vie des appareils.
+
+- les Stakeholders : Les étudiants, professeurs, photographes professionnels, ainsi que les entreprises et les particuliers exigeants.
+
+- Dont les résultats : Une baisse de productivité, le risque constant de fraude (contrefaçons), une perte de compétitivité pour les entreprises et un gaspillage écologique massif dû au remplacement d'appareils dont la panne est pourtant mineure.
+
+- le bénéfice de mon business : Une plateforme numérique et des boutiques offrant des produits certifiés et un service de réservation de réparation en ligne, garantissant productivité, authenticité et une réduction drastique du gaspillage technologique.
+
+Après avoir formulé quel est le problème et repéré différentes solutions, on va mettre en place le business model canva pour avoir un vue d'ensemble de tout les éléments liés au Business.
+
+### Le Business Model Canva du projet
