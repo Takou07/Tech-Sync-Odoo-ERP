@@ -38,4 +38,4 @@ On choisira differents apps en focntion de notre business!!!
 
 ## Business Plan
 
-![Business Plan](/screenshots/Business_plan.jpg)
+![Business Plan](/screenshots/Business_plan.png)
