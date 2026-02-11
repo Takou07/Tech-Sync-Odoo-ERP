@@ -15,3 +15,27 @@ Parfois sous forme d'application web ou d'une platerforme PC, il est utilisé po
 ### ERP Architecture 
 
 ![ERP-Architecture](/screenshots/ERP_architecture.png)
+
+### Odoo 
+
+![Odoo](/screenshots/Odoo%20Apps%20Interface.png)
+
+Pour la conception de notre ERP on a utiliser Odoo qui est un business management software disponible sous 2 versions :
+- Odoo Community (Open-source)
+- Odoo Enterprise (licensed)
+
+Ce qui nous interesse est Odoo Community qui comporte plusieurs composants pour les differents process de l'entreprise comme :
+- Finance
+- Ressources humaines
+- Ventes
+- Services
+- Productivité 
+- Sites Web
+- Marketing
+- Inventaires
+
+On choisira differents apps en focntion de notre business!!!
+
+## Business Plan
+
+![Business Plan](/screenshots/Business_plan.jpg)
