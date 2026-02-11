@@ -7,11 +7,11 @@ Ce projet va de la conception du business model jusqu'à la mise en place de l'E
 
 ## Un ERP - Odoo
 
-![ERP](/TECH-SYNC-ODOO-ERP/screenshots/ERP-System.jpg)
+![ERP](/screenshots/ERP-System.jpg)
 
 Un **ERP** est un software dédié au management du business et de ses opérations.
-Parfois sous forme d'application web ou d'une platerforme PC, il est utilisé pour digitaliser les business workflows et taillé en fonction de l'entreprise.
+Parfois sous forme d'application web ou d'une platerforme PC, il est utilisé pour digitaliser les business workflows et est taillé en fonction de l'entreprise.
 
 ### ERP Architecture 
 
-![ERP-Architecture](/TECH-SYNC-ODOO-ERP/screenshots/ERP_architecture.png)
+![ERP-Architecture](/screenshots/ERP_architecture.png)
