@@ -39,3 +39,14 @@ On choisira differents apps en focntion de notre business!!!
 ## Business Plan
 
 ![Business Plan](/screenshots/Business_plan.png)
+
+Le **Business Plan** est un document qui permet de mettre en place le but du business, les objectifs futurs, les stratégies(méthodes) pour atteindre ces objectifs.
+
+Le but principal de ce document est de d'identifier, de décrire et analyser les opportunités de business examinant l'aspect technique, économique et la faisabilité financiere.
+
+Ici je vais developper tout les éléments qui constituent mon business Plan.
+
+### Problem Statement & Solution Proposition
+
+![Problem_State](/screenshots/Problem_statement.png)
+
