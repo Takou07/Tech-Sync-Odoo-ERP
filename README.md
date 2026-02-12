@@ -63,3 +63,7 @@ Pour notre projet voici les éléments qui constitent l'état du problème et la
 Après avoir formulé quel est le problème et repéré différentes solutions, on va mettre en place le business model canva pour avoir un vue d'ensemble de tout les éléments liés au Business.
 
 ### Le Business Model Canva du projet
+
+C'est une sorte de tableau qui regroupe tout les éléments de ton business model allant des partenaires, modèle de revenue au ressources. Ci dessous on y voit le business model Canva de notre projet **Tech-sync** .
+
+![Model Canva](/screenshots/BUSINESS_MODEL_CANVAS-TechSync.png)
